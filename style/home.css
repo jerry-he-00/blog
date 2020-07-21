@@ -1,14 +1,41 @@
-<<<<<<< HEAD
-#divid{
-    height: 100px;
-    width: 100px;
-    padding: 10px;
-    background-color: bisque;
-=======
-#divid{
-    height: 100px;
-    width: 100px;
-    padding: 10px;
-    background-color: bisque;
->>>>>>> 31b8da26a3aa03a1e01ec7330c402ef9db2800da
+body{
+    display: block;
+    background-color:rgb(247, 246, 241);
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color:rgb(243, 231, 210);
+    height: 70px;
+    width: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.blog-name{
+    float: left;
+    margin-top: 24px;
+    margin-left: 10px;
+}
+.blog-name:visited:active{
+    color: #3273dc;
+}
+.image-logo{
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin: 10px 0px 0px 100px;
+}
+ul{
+    margin-left: 200px;
+   list-style-type: none;
+}
+li{
+    float: left;
+    margin: 23px 10px;
+}
+li a:visted:active{
+    color:  #3273dc;
 }
