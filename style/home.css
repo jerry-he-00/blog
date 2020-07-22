@@ -1,11 +1,11 @@
 body{
     display: block;
-    background-color:rgb(247, 246, 241);
+    background-color:#F7F7F7;
     padding: 0px;
     margin: 0px;
 }
 header{
-    background-color:rgb(243, 231, 210);
+    background-color:#ffffff;
     height: 70px;
     width: auto;
 }
@@ -28,14 +28,200 @@ a{
     border-radius: 25px;
     margin: 10px 0px 0px 100px;
 }
-ul{
+.hearder-ul{
     margin-left: 200px;
    list-style-type: none;
 }
-li{
+.hearder-li{
     float: left;
     margin: 23px 10px;
 }
-li a:visted:active{
+.hearder-li a:active:visted{
     color:  #3273dc;
 }
+.Blogger{
+    float: left;
+    width: 300px;
+    height: 400px;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+    margin:30px 0px 0px 220px;
+}
+.image-logo2{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 30px 0px 20px 100px;
+}
+.Blogger h1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Blogger p{
+   
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.knowme{
+    background-color: blueviolet;
+    padding: 10px 90px;
+    margin:10px 20px 20px 35px;
+    border-radius: 20px;
+}
+.image-github{
+    margin: 50px 8px 30px 17px;
+    width: 30px;
+    height: 30px;
+}
+.allblogers{
+    width: 300px;
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+}
+.allblogers h1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 20px;
+}
+.allblogers-ul{
+    list-style-type: none;
+}
+.allblogers-li{
+    margin: 30px -10px;
+}
+.localization-a1{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 100px;
+}
+.localization-a2{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 164px;
+}
+.localization-a3{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 92px;
+}
+.localization-a4{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 93px;
+}
+.localization-a5{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 90px;
+}
+.localization-a6{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 55px;
+}
+.localization:hover{
+    background-color: rgb(248, 244, 244);
+}
+.localization:visited:active{
+    color:  #3273dc;
+}
+.content{
+    float: left;
+    width: 700px;
+    height: 700px;
+    background-color:#FEFEFE;
+    margin:30px 50px 30px 50px;
+}
+.content-text{
+    margin-left: 20px;
+}
+.content-text h1,p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content-text input{
+    padding: 7px 15px;
+    border: 0px;
+    margin-top: 20px;
+}
+.sideboard{
+    float: left;
+    width: 350px;
+    height: 600px;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+    margin:30px 120px 0px 7px;
+}
+.sideboard h1{
+    color: rgb(170, 138, 138);
+    margin-left: 20px;
+}
+.sideboard-ul{
+    list-style-type: none;
+    margin-left: -20px;
+    margin-top: -10px;
+}
+.sideboard img{
+       margin: 5px;
+       border-radius: 5px;
+}
+.sideboard p{
+   float: right;
+   margin-right: 50px;
+   margin-top: -95px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 18px;
+}
+.file{
+    width: 350px;
+    height: 600px;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+}
+.file-ul{
+    list-style-type: none;
+  
+}
+.file-li{
+    margin: 50px 0px;
+}
+.sideboard a:hover{
+    background-color: wheat;
+}
+.file-1{
+    padding: 10px 15px;
+    margin-left: 150px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 5px;
+}
+.file-2{
+    padding: 10px 15px;
+    margin-left: 123px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 5px;
+}
+.file-3{
+    padding: 10px 15px;
+    margin-left: 127px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 5px;
+}
+.file-4{
+    padding: 10px 15px;
+    margin-left: 120px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 5px;
+}
+.file-5{
+    padding: 10px 15px;
+    margin-left: 137px;
+    background-color: rgb(243, 235, 235);
+    border-radius: 5px;
+}
+
