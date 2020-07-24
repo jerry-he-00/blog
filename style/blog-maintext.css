@@ -6,8 +6,152 @@ body{
     width: 50%;
     height: 900px;
     margin-left: 500px;
+    margin-top: 50px;
     background-color: #ffffff;
     border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.blog-name{
+    float: left;
+    margin-top: 24px;
+    margin-left: 10px;
+}
+.blog-name:visited:active{
+    color: #3273dc;
+}
+.image-logo{
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    margin: 10px 0px 0px 100px;
+}
+header{
+    background-color:#ffffff;
+    height: 70px;
+    width: auto;
+}
+.hearder-ul{
+    margin-left: 200px;
+   list-style-type: none;
+}
+.hearder-li{
+    float: left;
+    margin: 23px 10px;
+}
+.hearder-li a:active:visted{
+    color:  #3273dc;
+}
+.Blogger{
+    float: left;
+    width: 300px;
+    height: 400px;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+    margin:50px 0px 0px 150px;
+}
+.image-logo2{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 30px 0px 20px 100px;
+}
+.Blogger h1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Blogger p{
+   
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.knowme{
+    background-color: blueviolet;
+    padding: 10px 90px;
+    margin:10px 20px 20px 35px;
+    border-radius: 20px;
+}
+.image-github{
+    margin: 50px 8px 30px 17px;
+    width: 30px;
+    height: 30px;
+}
+.allblogers{
+    width: 300px;
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid white;
+    background-color:#FEFEFE;
+}
+.allblogers h1{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 20px;
+}
+.allblogers-ul{
+    list-style-type: none;
+}
+.allblogers-li{
+    margin: 30px -10px;
+}
+.localization-a1{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 120px;
+}
+.localization-a2{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 164px;
+}
+.localization-a3{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 111px;
+}
+.localization-a4{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 103px;
+}
+.localization-a5{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 105px;
+}
+.localization-a6{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 133px;
+}
+.localization-a7{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 123px;
+}
+.localization-a8{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 131px;
+}
+.localization-a9{
+    padding: 5px;
+    /* background-color: #FEFEFE; */
+    margin-left: 150px;
+}
+.localization:hover{
+    background-color: rgb(248, 244, 244);
+}
+.localization:visited:active{
+    color:  #3273dc;
 }
 img,p{
     margin: 10px 20px 0px 20px;
